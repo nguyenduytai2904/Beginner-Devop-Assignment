@@ -1,0 +1,13 @@
+2024-12-13 12:41:41,783 - INFO - Resource monitoring initiated.
+2024-12-13 12:41:42,785 - INFO - Recorded CPU: 7.1%, Memory: 87.2%
+2024-12-13 12:42:43,796 - INFO - Recorded CPU: 4.0%, Memory: 87.1%
+2024-12-13 12:43:41,306 - INFO - Process terminated by user.
+2024-12-13 12:43:47,000 - INFO - Resource monitoring initiated.
+2024-12-13 12:43:48,001 - INFO - Recorded CPU: 8.0%, Memory: 86.8%
+2024-12-13 12:44:49,007 - INFO - Recorded CPU: 0.3%, Memory: 87.2%
+2024-12-13 12:45:50,012 - INFO - Recorded CPU: 0.6%, Memory: 87.8%
+2024-12-13 12:46:51,017 - INFO - Recorded CPU: 0.1%, Memory: 87.2%
+2024-12-13 12:47:09,118 - INFO - Process terminated by user.
+2024-12-13 15:03:59,949 - INFO - Resource monitoring initiated.
+2024-12-13 15:04:00,956 - INFO - Recorded CPU: 4.8%, Memory: 86.8%
+2024-12-13 15:04:49,172 - INFO - Process terminated by user.
