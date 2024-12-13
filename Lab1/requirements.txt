@@ -1,0 +1,10 @@
+os
+psutil
+time
+gzip
+shutil
+logging
+collections
+email
+python-dotenv
+smtplib
