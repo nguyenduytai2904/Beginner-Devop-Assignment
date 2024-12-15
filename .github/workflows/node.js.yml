@@ -6,14 +6,14 @@ name: Node.js CI
 on:
   push:
     branches: [ "main" ]
-    paths: ["Lab1/**"]
+    paths: ["Lab2/**"]
   pull_request:
     branches: [ "main" ]
-    paths: ["Lab1/**"]
+    paths: ["Lab2/**"]
 
 defaults:
   run:
-    working-directory: Lab1
+    working-directory: Lab2
     
 
 jobs:
