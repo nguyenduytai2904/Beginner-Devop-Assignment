@@ -11,4 +11,5 @@
   - Building a Docker image of the application.
     ![image](https://github.com/user-attachments/assets/8e5e7922-6fa1-453a-90ed-3198658c32ed)
   - Deploying the Docker container to a local environment or cloud service.
+    
   - Document the steps to set up and run the pipeline.
