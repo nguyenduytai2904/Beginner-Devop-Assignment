@@ -4,3 +4,4 @@
   - Building a Docker image of the application.
   - Deploying the Docker container to a local environment or cloud service.
   - Document the steps to set up and run the pipeline.
+## Result each task
